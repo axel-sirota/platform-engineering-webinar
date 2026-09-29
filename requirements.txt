@@ -1,0 +1,6 @@
+gradio==6.29.0
+pandas
+numpy
+plotly
+nbformat
+pyflakes
